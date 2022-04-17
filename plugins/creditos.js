@@ -2,7 +2,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `
 ╭═════• 💚⚡💚⚡💚 •═════╮ 
 
-*agromos bot por agromos sp tiene funciones que pertenezcan a las siguentes Empresa(s)|Organizacion(es)|Persona(s):*
+*Sapito bot  tiene funciones que pertenezcan a las siguentes Empresa(s)|Organizacion(es)|Persona(s):*
 
  🔰BrunoSobrino 
 THE SHADOW BROKERS 
