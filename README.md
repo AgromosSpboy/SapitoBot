@@ -4,28 +4,28 @@
 **💚Hola bienvenido al repositorio del bot Sapito💚 me puedes ayudardándole en la estrellita gracias💚👻_**
 
 <div align="center">
-<img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="agromosSpbot" width="500" />
+<img src="https://i.ytimg.com/vi/nkhVzxXnuSQ/maxresdefault.jpg" alt="Sapito" width="500" />
 
 
 ### `💚Si necesitas ayuda mandame mensaje sobre la instalación💚`
-<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 ### `Unete a los grupos oficales para conocer novedades del Bot`
 **🔰GRUPO1 DEL BOT🔰**
 
-[![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JiONzKmPvB25su65XzAbqA)
+[![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com
 
 **🔰GRUPO2 DEL BOT**
 
-[![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BzLd8kaNMj24Hmu95tsiE2)
+[![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whats
 
 **🔰GRUPO3 DEL BOT🔰**
 
-[![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH)
+[![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/
 
 **😼💚NUMERO DEL  PROPIETARIO**
 
-<a href="http://wa.me/18178659441" target="blank"><img src="https://img.shields.io/badge/AGROMOS_SP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-> NO BOT
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/saP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
 
 
 ### `💚Si necesitas  video de instalación aqui💚`
@@ -49,7 +49,7 @@ cada que el link del WhatsApp recomendado deje de funcionar reportar para restab
 
 ### `📛AJUSTES📛`
 
-### `🤖INSTALACION DEL BOT AGROMOS DESDE TERMUX🤖`
+### `🤖INSTALACION DEL BOT SAPITO DESDE TERMUX🤖`
 ```bash
 > termux-setup-storage
 > apt update && apt upgrade -y -y
@@ -57,8 +57,8 @@ cada que el link del WhatsApp recomendado deje de funcionar reportar para restab
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/Agromos0/AgromosBotV2
-> cd AgromosBotV2
+> git clone https://github.com/AgromosSpboy/SapitoBot
+> cd SapitoBot
 > npm install
 > npm install -g npm@8.5.3
 > npm update
