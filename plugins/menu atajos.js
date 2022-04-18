@@ -42,8 +42,8 @@ let menu =`
 ┃ *MENU  AUDIOS*
 ┣ ➱♨️ _${usedPrefix}menu2_
 ┃≡≡≡≡≡≡≡≡≡
-┃ *MENU NOPOR🔞*
-┣ ➱♨️ _${usedPrefix}labiblia_
+┃ *
+┣ 
 ┗━━━━━━━━━━━━━┛
 ━〘 💚⚡💚⚡💚⚡💚⚡💚 〙━`.trim()
 let mentionedJid = [who]
