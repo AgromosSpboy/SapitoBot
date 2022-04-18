@@ -10,11 +10,12 @@ THE SHADOW BROKERS
 🔰Gatanina
 𝐺𝐴𝑇𝐴 𝐵𝑂𝑇
 
+ 🔰
  
 ╰═════• 💚⚡💚⚡💚 •═════╯
 `.trim() 
 //¡GRACIAS!
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '💚agromosSP', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '💚Sapito Bot', 'status@broadcast')
 }
 handler.command = /^(creditos|CREDITOS|Creditos|Credito|Crédito)$/i
 
