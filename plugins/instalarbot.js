@@ -13,8 +13,8 @@ let handler = async m => m.reply(`
 ➤ 2 teléfonos o un 1 teléfono y una PC (es temporal - solo para escanear un código QR)
 
 💥 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 💥
-➤ https://github.com/Agromos0/AgromosBotV2
-
+➤
+https://github.com/AgromosSpboy/SapitoBot/
 
 💥 𝐀𝐑𝐄𝐀 𝐃𝐄 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 💥
 ➤ Termux: https://f-droid.org/en/packages/com.termux/
@@ -27,7 +27,7 @@ let handler = async m => m.reply(`
 ➤ apt install ffmpeg -y
 ➤ apt install imagemagick -y
 ➤ https://github.com/Agromos0/AgromosBotV2
-➤ cd AgromosBotV2
+➤ cd SapitoBot
 ➤ npm install
 ➤ npm install -g npm@8.4.0
 ➤ npm update
@@ -39,7 +39,7 @@ let handler = async m => m.reply(`
 ➤ Para habilitar el /añadir y el /sacar usa #enable autoread
 - Puede ocasionar que el numero se vaya a soporte 
 ➤ PayPal para apoyo voluntario: toxicoyt084@gmail.com 
-➤ Numero de ayuda durante la instalacion: wa.me/18178659441 (No Bot, solo ayuda durante la instalación)
+➤ Numero de ayuda durante la instalacion: http://wa.me/595983186566
 
 *◄💚⚡💚⚡💚⚡►*
 `.trim()) 
