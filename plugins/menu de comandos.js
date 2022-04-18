@@ -286,11 +286,11 @@ heteroprostituta *@tag / nombre*_
 ┣ ➱💎 _${usedPrefix}subirestado *texto / responder video, imagen o gif*_
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
-┃ *<COMANDOS +18🚫/>*
+┃ *
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
-┃ Usar bajo su responsabilidad  y si te lo permiten en tu grupo
+┃ 
 ║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ 
-┣ ➱🔞 _${usedPrefix}labiblia_
+┣
 ┗━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━┓
 ┃ *<EFECTOS PARA NOTAS DE VOZ O AUDIOS/>*
